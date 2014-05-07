@@ -2,10 +2,11 @@
 Source: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world 
 
 ## Package Requirements
-flask==0.9
-flask-login
-flask-openid
-flask-mail==0.7.6
+ flask==0.9
+ 
+ flask-login
+ flask-openid
+ flask-mail==0.7.6
 sqlalchemy==0.7.9
 flask-sqlalchemy==0.16
 sqlalchemy-migrate==0.7.2
